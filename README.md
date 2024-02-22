@@ -1,4 +1,4 @@
-[![MasterHead](https://64.media.tumblr.com/c7e1bde07c480cf76996845359dd41c9/971911ed22c691d0-48/s1280x1920/a927ad852eab90bbdfed57e286a9214b171fd769.png)]
+![MasterHead](https://64.media.tumblr.com/c7e1bde07c480cf76996845359dd41c9/971911ed22c691d0-48/s1280x1920/a927ad852eab90bbdfed57e286a9214b171fd769.png)
 <h1 align="center">Hi 👋, I'm Dalet</h1>
 <h3 align="center">Exploring the world of code, one commit at a time.</h3>
 <img align="right" alt="seulgi" width="400" src="https://64.media.tumblr.com/c94cb22ad840dc5c3c768bfe92a5ca12/ba907d4023045668-34/s400x600/92328bd2018f61261459d17e070527b21850b6b1.gif">
