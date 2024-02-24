@@ -4,6 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=spod101&label=Profile%20views&color=0e75b6&style=flat" alt="spod101" /> </p>
 
+<div align="center">
 - 🔭 I’m currently working on **Finals Project**
 
 - 🌱 I’m currently learning **Python, JavaScript, Database**
@@ -12,6 +13,7 @@
 
 - ⚡ Fun fact **I always sleep**
 
+</div>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/cdalet_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cdalet_" height="30" width="40" /></a>
