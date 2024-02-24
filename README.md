@@ -31,8 +31,8 @@
 
 # 📊 GitHub Stats and Streak:
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Spod101&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="600" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Spod101&theme=dark&hide_border=false" alt="GitHub Streak Stats" width="700" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Spod101&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="300" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Spod101&theme=dark&hide_border=false" alt="GitHub Streak Stats" width="400" />
 </div>
 
 <br>
