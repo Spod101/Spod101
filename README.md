@@ -29,9 +29,11 @@
 
 <br>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Spod101&theme=dark&hide_border=false&include_all_commits=true&count_private=true)</br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Spod101&theme=dark&hide_border=false)
+# 📊 GitHub Stats and Streak:
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Spod101&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Spod101&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+</div>
 
 <br>
 
