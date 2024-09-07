@@ -4,9 +4,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=spod101&label=Profile%20views&color=0e75b6&style=flat" alt="spod101" /> </p>
 
-- 🔭 I’m currently working on **Finals Project**
+- 🔭 I’m currently working on **CodeIgniter Project**
 
-- 🌱 I’m currently learning **Python, JavaScript, Database**
+- 🌱 I’m currently learning **CodeIgniter, Swift, Linux**
 
 - 📫 How to reach me **clayd0423@gmail.com**
 
