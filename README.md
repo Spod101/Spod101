@@ -1,4 +1,4 @@
-![MasterHead](https://64.media.tumblr.com/3c5e6bff91c1d8ad8ebedf3b0eda0b7b/b7c8243a8bc25e98-73/s1280x1920/1f00d8e8c5e904253d038245126f06961e9e7c4e.jpg)
+![MasterHead](https://i.pinimg.com/564x/ca/a4/50/caa450eed8a3328e5023653ec946f1a4.jpg)
 <h1 align="center">꧁༒ Hi 👋, I'm Dalet ༒꧂</h1>
 <h3 align="center">Exploring the world of code, one commit at a time.</h3>
 
