@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/564x/64/91/7b/64917b78fcdc2dbbabc8d7a4b6ea9b8c.jpg" alt="MasterHead">
+  <img src="https://i.pinimg.com/564x/d7/bd/79/d7bd79f553fac37b48c85a7d7b49bc1f.jpg" alt="MasterHead">
 </div>
 
 <h1 align="center">꧁༒ Hi 👋, I'm Dalet ༒꧂</h1>
