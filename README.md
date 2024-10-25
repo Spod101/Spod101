@@ -1,4 +1,7 @@
-![MasterHead](https://i.pinimg.com/564x/64/91/7b/64917b78fcdc2dbbabc8d7a4b6ea9b8c.jpg)
+<div align="center">
+  <img src="https://i.pinimg.com/564x/64/91/7b/64917b78fcdc2dbbabc8d7a4b6ea9b8c.jpg" alt="MasterHead">
+</div>
+
 <h1 align="center">꧁༒ Hi 👋, I'm Dalet ༒꧂</h1>
 <h3 align="center">Exploring the world of code, one commit at a time.</h3>
 
